@@ -4,57 +4,144 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# Backscatter Aps - Our Walk App Privacy Policy
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+The Our Walk App (henceforth referred to as the ‘Service’) is a web-based service by Backscatter Aps (henceforth referred to as ‘Our Company’).
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+At Our Company data protection and confidentiality is a high priority. This privacy policy will explain how Our Company processes the personal data we collect from you when you use our Service.
 
-<br>
+This Privacy Policy is set out to comply with Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (GDPR).
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## Data controller and contact information
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+The Service is offered by:
 
-<br>
+ 
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Backscatter Aps
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+Company reg. no. 38486489
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Oceanvej 1
 
-<br>
+2150 København
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+E-mail: [info@backscatter.dk](mailto:info@backscatter.dk)
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+Telephone: +45 53 54 61 60
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 
-<br>
+## What data do we process, why and how?
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We collect your data and process data when you:
 
-<br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+
+* Register with Our Company as a user of the Service
+
+    The processing of your data when registering as a user is necessary for using the Service, cf. GDPR art. 6(1)b).
+
+* Use the Service to conduct a photo walk
+
+    The processing of your data when conducting a photo walk is voluntary and based on your consent to the permissions dialogue popping up in relation to the use of your mobile camera and the location tracking on your phone.
+
+* Use the Service to react to other people's images
+
+    The processing of your data when reacting is voluntary.
+
+
+
+## Information you provide to us
+
+The Service stores your username and e-mail address when you register to conduct a photo walk.
+
+
+### Information we collect automatically when you use the Services
+
+
+a) The images you take as well as their latitude and longitude (if you allow location permissions)
+
+b) The annotations you make to your own and other’s pictures
+
+c) Your route when you decide to do a photo walk
+
+We have deliberately designed the location tracking in such a way that you are asked for permission to track you and the Service only tracks you when you are in ‘walking mode’. It is only when you select the option to ‘go for a walk’ that location tracking is turned on. Every time you go on a walk you are notified that this is the case.
+
+
+### How will we use your data?
+
+Our Company processes your data so that we can:
+
+
+
+* Register you as a user of the Service
+* Provide our Services
+* Run, maintain and develop the Service
+* Conduct analyses of your relation to the city
+
+Our Company does not transfer your personal data to a third party without asking for your consent, in a way that is clearly distinguishable from the basic uses of the app. Under specific circumstances and with reference to legislation, it might be necessary to transfer information to public authorities.
+
+
+### How do we store your data?
+
+The Service securely stores your data in data centers within the EU, which is compliant to GDPR. Your personal data will not be transferred to third countries outside the EU or the EEA. Your data is only accessible with a functioning API key provided by Our Company.
+
+
+### When will we delete your data?
+
+Our Company will delete or anonymize your personal data when you de-register as a user of the Service. This will take place as soon as possible and no later than 6 months after de-registration.
+
+
+### What are your data protection rights?
+
+Our Company would like to make sure you are fully aware of all of your data protection rights. 
+
+As a data subject, you are entitled to the following:
+
+
+
+* The right to access 
+
+    You have the right to request Our Company for copies of your personal data. We may charge you a small fee for this service.
+
+* The right to rectification
+
+    You have the right to request that Our Company correct any information you believe is inaccurate. You also have the right to request Our Company to complete the information you believe is incomplete.
+
+* The right to erasure 
+
+    You have the right to request that Our Company erase your personal data, under certain conditions.
+
+* The right to restrict processing 
+
+    You have the right to request that Our Company restrict the processing of your personal data, under certain conditions.
+
+* The right to object to processing 
+
+    You have the right to object to Our Company’s processing of your personal data, under certain conditions.
+
+* The right to data portability
+
+    You have the right to request that Our Company transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+* Withdrawal of consent
+
+    You can withdraw your consent at any time by contacting us ([info@backscatter.dk](mailto:info@backscatter.dk)). This will restrict any further processing of your data. If you want all your data to be deleted, ask specifically for it (right to erasure).
+
+* The right to complain to a data authority
+
+    If you believe your data has been processed and collected unlawfully, you have the right to complain to a data authority (more below).
+
+
+If you make a request, we will respond to you as soon as possible and no later than one month. If you would like to exercise any of these rights, please contact us at our email: info@backscatter.dk and put “**Data Protection (GDPR)**” in the Title, then we will direct your request to our designated Data Protection Officer.
+
+
+### How can you complain?
+
+If you wish to complain about Our Company’s processing of your personal data, please contact us by email, telephone or letter as indicated above. You may also contact the Data Protection Agency, Carl Jacobsens Vej 35, DK-2500 Valby, [dt@datatilsynet.dk](mailto:dt@datatilsynet.dk).
+
+
+### Changes to our privacy policy
+
+Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on May 16th 2021.
