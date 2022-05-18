@@ -43,11 +43,11 @@ features                                  :
     fontawesome_icon_name                 : mobile
     
   - title                                 : Try it out
-    description                           : To utilise the app for data collection in your area, you need to be assigned to a project by Backscatter. If you want to get involved, visit us at https://backscatter.dk/en and reach out to us by email
+    description                           : To utilise the app for data collection in your area, you need to be assigned to a project by Backscatter. If you want to get involved, reach out to us using the buttons below.
     fontawesome_icon_name                 : star
 
   - title                                 : Legacy
-    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at https://urbanbelonging.com/.
+    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at [urbanbelonging.com](https://urbanbelonging.com/).
     fontawesome_icon_name                 : info-circle
 
 
