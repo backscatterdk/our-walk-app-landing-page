@@ -17,11 +17,11 @@ This Privacy Policy is set out to comply with Regulation (EU) 2016/679 on the pr
 
 The Service is offered by:
 
-Backscatter Aps
-Company reg. no. 38486489
-Oceanvej 1
-2150 København
-E-mail: [info@backscatter.dk](mailto:info@backscatter.dk)
+Backscatter Aps  
+Company reg. no. 38486489  
+Oceanvej 1  
+2150 København  
+E-mail: [info@backscatter.dk](mailto:info@backscatter.dk)  
 Telephone: +45 53 54 61 60
 
 
