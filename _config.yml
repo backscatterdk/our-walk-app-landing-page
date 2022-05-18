@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : Legacy
-    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at [urbanbelonging.com](https://urbanbelonging.com/).
+    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at <a href="https://urbanbelonging.com/" target="_blank">urbanbelonging.com</a>.
     fontawesome_icon_name                 : info-circle
 
 
