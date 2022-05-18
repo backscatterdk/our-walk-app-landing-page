@@ -17,18 +17,11 @@ This Privacy Policy is set out to comply with Regulation (EU) 2016/679 on the pr
 
 The Service is offered by:
 
- 
-
 Backscatter Aps
-
 Company reg. no. 38486489
-
 Oceanvej 1
-
 2150 København
-
 E-mail: [info@backscatter.dk](mailto:info@backscatter.dk)
-
 Telephone: +45 53 54 61 60
 
 
@@ -93,7 +86,7 @@ The Service securely stores your data in data centers within the EU, which is co
 Our Company will delete or anonymize your personal data when you de-register as a user of the Service. This will take place as soon as possible and no later than 6 months after de-registration.
 
 
-### What are your data protection rights?
+## What are your data protection rights?
 
 Our Company would like to make sure you are fully aware of all of your data protection rights. 
 
