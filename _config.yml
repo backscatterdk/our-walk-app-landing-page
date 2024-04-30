@@ -13,22 +13,22 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/ourwalk_logo_1024px.png            # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Our Walk                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Our Walk is Backscatter's participatory tool for mobilizing and engaging people. 
+app_description                           : Our Walk is VOLCANO's participatory tool for mobilizing and engaging people. 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Backscatter
-your_link                                 : https://backscatter.dk/en                     
+your_name                                 : VOLCANO A/S
+your_link                                 : https://volcano.nu/                     
 your_city                                 : Copenhagen                                
-email_address                             : info@backscatter.dk
+email_address                             : info@volcano.nu
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : backscatterdk
-linkedin_username                         : backscatterdk
+github_username                           :
+linkedin_username                         : volcano-a-s
 youtube_username                          :
 
 
@@ -39,15 +39,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Digital participation
-    description                           : Our Walk is an application by Backscatter, a human data science studio based in Copenhagen. Backscatter uses the app to invite people to take photos that express how they feel about the places that surround them. Users are encouraged to react to other people’s photos, allowing us to map how people perceive their surroundings differently.
+    description                           : Our Walk is an application by VOLCANO, a consultancy that specialises in community placemaking and citizen engagement. VOLCANO uses the app to invite people to take photos that express how they feel about the places that surround them. Users can then react to other people’s photos, allowing us to map how people perceive their surroundings differently.
     fontawesome_icon_name                 : mobile
     
   - title                                 : Try it out
-    description                           : To utilise the app for data collection in your area, you need to be assigned to a project by Backscatter. If you want to get involved, reach out to us using the buttons below.
+    description                           : To utilise the app for data collection in your area, you need to be assigned to a project by VOLCANO. If you want to get involved, reach out to us using the buttons below.
     fontawesome_icon_name                 : star
 
   - title                                 : Legacy
-    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at <a href="https://urbanbelonging.com/" target="_blank">urbanbelonging.com</a>.
+    description                           : The app builds on the Urban Belonging app, developed as part of Anders Koed Madsen’s Doing Data Together project. It was redeveloped by VOLCANO and Backscatter in cooperation with DIGIT srl. The original app was developed by Iain Kettles, designed by Marcos Cisneros, and was in turn inspired by the Snappthis app by Marije ten Brink. The original app is open-source at <a href="https://urbanbelonging.com/" target="_blank">urbanbelonging.com</a>.
     fontawesome_icon_name                 : info-circle
 
 
