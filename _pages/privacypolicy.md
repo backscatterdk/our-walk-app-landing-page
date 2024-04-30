@@ -4,9 +4,9 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-# Backscatter Aps - Our Walk App Privacy Policy
+# VOLCANO A/S - Our Walk App Privacy Policy
 
-The Our Walk App (henceforth referred to as the ‘Service’) is a web-based service by Backscatter Aps (henceforth referred to as ‘Our Company’).
+The Our Walk App (henceforth referred to as the ‘Service’) is a web-based service by VOLCANO A/S (henceforth referred to as ‘Our Company’).
 
 At Our Company data protection and confidentiality is a high priority. This privacy policy will explain how Our Company processes the personal data we collect from you when you use our Service.
 
@@ -17,13 +17,11 @@ This Privacy Policy is set out to comply with Regulation (EU) 2016/679 on the pr
 
 The Service is offered by:
 
-Backscatter Aps  
-Company reg. no. 38486489  
-Oceanvej 1  
-2150 København  
-E-mail: [info@backscatter.dk](mailto:info@backscatter.dk)  
-Telephone: +45 53 54 61 60
-
+VOLCANO A/S
+Company reg. no. 31272149  
+Lygten 39
+2400 København NV  
+E-mail: [info@volcano.nu](mailto:info@volcano.nu)  
 
 ## What data do we process, why and how?
 
@@ -120,14 +118,14 @@ As a data subject, you are entitled to the following:
 
 * Withdrawal of consent
 
-    You can withdraw your consent at any time by contacting us ([info@backscatter.dk](mailto:info@backscatter.dk)). This will restrict any further processing of your data. If you want all your data to be deleted, ask specifically for it (right to erasure).
+    You can withdraw your consent at any time by contacting us ([info@volcano.nu](mailto:info@volcano.nu)). This will restrict any further processing of your data. If you want all your data to be deleted, ask specifically for it (right to erasure).
 
 * The right to complain to a data authority
 
     If you believe your data has been processed and collected unlawfully, you have the right to complain to a data authority (more below).
 
 
-If you make a request, we will respond to you as soon as possible and no later than one month. If you would like to exercise any of these rights, please contact us at our email: info@backscatter.dk and put “**Data Protection (GDPR)**” in the Title, then we will direct your request to our designated Data Protection Officer.
+If you make a request, we will respond to you as soon as possible and no later than one month. If you would like to exercise any of these rights, please contact us at our email: info@volcano.nu and put “**Data Protection (GDPR)**” in the Title, then we will direct your request to our designated Data Protection Officer.
 
 
 ### How can you complain?
@@ -137,4 +135,4 @@ If you wish to complain about Our Company’s processing of your personal data, 
 
 ### Changes to our privacy policy
 
-Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on May 16th 2021.
+Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on April 30th 2024.
