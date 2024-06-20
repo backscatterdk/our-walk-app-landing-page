@@ -19,8 +19,8 @@ The Service is offered by:
 
 VOLCANO A/S
 Company reg. no. 31272149  
-Lygten 39
-2400 København NV  
+Århusgade 88
+2100 København Ø  
 E-mail: [info@volcano.nu](mailto:info@volcano.nu)  
 
 ## What data do we process, why and how?
